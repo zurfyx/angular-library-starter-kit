@@ -1,27 +1,47 @@
-# AngularCustomModal
+# Angular2+ Library Starter Kit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+[![npm Version](https://img.shields.io/npm/v/angular-library-starter-kit.svg)](https://www.npmjs.com/package/angular-library-starter-kit)
+[![Build Status](https://travis-ci.org/zurfyx/angular-library-starter-kit.svg?branch=master)](https://travis-ci.org/zurfyx/angular-library-starter-kit)
 
-## Development server
+> Angular2+ Library Starter Kit.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## What you get out of the box
 
-## Code scaffolding
+**A NPM library** such as:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[npmjs.com/package/angular-library-starter-kit](https://www.npmjs.com/package/angular-library-starter-kit)
 
-## Build
+Which can be installed and imported as easy as `npm install your-library-name` and `import { MyModule } from 'your-library-name'`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+A **demo page** such as:
 
-## Running unit tests
+[zurfyx.github.io/angular-library-starter-kit](https://zurfyx.github.io/angular-library-starter-kit/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Features
 
-## Running end-to-end tests
+- Based on [angular-cli](https://github.com/angular/angular-cli)
+- Compatibility with Angular CLI, Webpack and SystemJS (built with [ng-packgr](https://github.com/dherges/ng-packagr))
+- Demo project (watch your library result as you develop)
+- Angular tests & E2E tests
+- Travis CI autodeploy to NPM
+- Travis CI demo autodeploy to GitHub Pages
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Getting started
 
-## Further help
+```
+git clone https://github.com/zurfyx/angular-library-start-kit
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Setting up Continuous Integration
+
+### Autodeploy to GitHub Pages
+
+### Autodeploy to NPM
+
+## Built with Angular Library Starter Kit
+
+[angular-library-starter-kit](https://github.com/zurfyx/angular-library-starter-kit)
+
+## License
+
+MIT © [Gerard Rovira Sánchez](//zurfyx.com)

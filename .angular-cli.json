@@ -1,11 +1,11 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "angular-custom-modal"
+    "name": "angular-library-starter-kit"
   },
   "apps": [
     {
-      "root": "src",
+      "root": "example",
       "outDir": "dist",
       "assets": [
         "assets",
@@ -18,14 +18,12 @@
       "tsconfig": "tsconfig.app.json",
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
-      "styles": [
-        "styles.css"
-      ],
+      "styles": [],
       "scripts": [],
-      "environmentSource": "environments/environment.ts",
+      "environmentSource": "config/environment.ts",
       "environments": {
-        "dev": "environments/environment.ts",
-        "prod": "environments/environment.prod.ts"
+        "dev": "config/environment.ts",
+        "prod": "config/environment.prod.ts"
       }
     }
   ],
@@ -36,15 +34,11 @@
   },
   "lint": [
     {
-      "project": "src/tsconfig.app.json",
+      "project": "example/tsconfig.app.json",
       "exclude": "**/node_modules/**"
     },
     {
-      "project": "src/tsconfig.spec.json",
-      "exclude": "**/node_modules/**"
-    },
-    {
-      "project": "e2e/tsconfig.e2e.json",
+      "project": "example/tsconfig.spec.json",
       "exclude": "**/node_modules/**"
     }
   ],
@@ -54,7 +48,7 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+    "styleExt": "scss",
     "class": {
       "spec": false
     },

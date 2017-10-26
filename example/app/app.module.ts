@@ -1,14 +1,17 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
+import { TaggifyModule } from '../../src';
+
 import { AppComponent } from './app.component';
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    TaggifyModule,
+  ],
+  declarations: [
+    AppComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]
