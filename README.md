@@ -3,7 +3,7 @@
 [![npm Version](https://img.shields.io/npm/v/angular-library-starter-kit.svg)](https://www.npmjs.com/package/angular-library-starter-kit)
 [![Build Status](https://travis-ci.org/zurfyx/angular-library-starter-kit.svg?branch=master)](https://travis-ci.org/zurfyx/angular-library-starter-kit)
 
-> Angular2+ Library Starter Kit.
+> Angular2+ Library Starter Kit based on Angular-CLI.
 
 ## What you get out of the box
 
@@ -122,7 +122,7 @@ The result should be copy-pasted into `deploy -> api_key -> secure`.
 
 ## Built with Angular Library Starter Kit
 
-[angular-library-starter-kit](https://github.com/zurfyx/angular-library-starter-kit)
+[angular-custom-modal](https://github.com/zurfyx/angular-custom-modal)
 
 ## License
 
