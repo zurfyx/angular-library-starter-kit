@@ -34,6 +34,10 @@
     "ng-packagr"
   ],
   "private": false,
+  "peerDependencies": {
+    "@angular/common": "^5.0.0",
+    "@angular/core": "^5.0.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "@angular/animations": "^5.0.0",
