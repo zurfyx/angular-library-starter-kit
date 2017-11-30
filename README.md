@@ -122,7 +122,8 @@ The result should be copy-pasted into `deploy -> api_key -> secure`.
 
 ## Built with Angular Library Starter Kit
 
-[angular-custom-modal](https://github.com/zurfyx/angular-custom-modal)
+- [angular-custom-modal](https://github.com/zurfyx/angular-custom-modal)
+- [angular-custom-dropdown](https://github.com/zurfyx/angular-custom-dropdown)
 
 ## License
 
