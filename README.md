@@ -1,9 +1,9 @@
-# Angular2+ Library Starter Kit
+# Angular 5 Library Starter Kit
 
 [![npm Version](https://img.shields.io/npm/v/angular-library-starter-kit.svg)](https://www.npmjs.com/package/angular-library-starter-kit)
 [![Build Status](https://travis-ci.org/zurfyx/angular-library-starter-kit.svg?branch=master)](https://travis-ci.org/zurfyx/angular-library-starter-kit)
 
-> Angular2+ Library Starter Kit based on Angular-CLI.
+> Angular 5 Library Starter Kit based on Angular-CLI.
 
 ## What you get out of the box
 
