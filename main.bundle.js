@@ -36,7 +36,7 @@ webpackEmptyAsyncContext.id = "../../../../../example/$$_lazy_route_resource laz
 /***/ "../../../../../example/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"greetings center\">\n  <div>\n    <h1>{{ 'Angular2+ Library Starter Kit' | taggify }}</h1>\n    <a class=\"neat shadowy\" href=\"https://github.com/zurfyx/angular-library-starter-kit\" rel=\"noopener\" target=\"_blank\">Get your own Angular 2/4 published in few minutes</a>\n  </div>\n</div>"
+module.exports = "<div class=\"greetings center\">\n  <div>\n    <h1>{{ 'Angular 5 Library Starter Kit' | taggify }}</h1>\n    <a class=\"neat shadowy\" href=\"https://github.com/zurfyx/angular-library-starter-kit\" rel=\"noopener\" target=\"_blank\">Get your own Angular library published in few minutes</a>\n  </div>\n</div>"
 
 /***/ }),
 
