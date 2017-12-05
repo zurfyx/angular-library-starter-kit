@@ -124,6 +124,7 @@ The result should be copy-pasted into `deploy -> api_key -> secure`.
 
 - [angular-custom-modal](https://github.com/zurfyx/angular-custom-modal)
 - [angular-custom-dropdown](https://github.com/zurfyx/angular-custom-dropdown)
+- [angular-contents](https://github.com/zurfyx/angular-contents)
 
 ## License
 
