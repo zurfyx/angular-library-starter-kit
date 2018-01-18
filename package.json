@@ -8,6 +8,7 @@
   },
   "version": "0.0.0",
   "license": "MIT",
+  "main": "src/index.ts",
   "scripts": {
     "start": "ng serve --aot",
     "build": "ng-packagr -p ng-package.json",
